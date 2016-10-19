@@ -1,21 +1,16 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Project: Checking out how GitHub works
+Programmer: Debbie Friedman
+October 19, 2016
  */
 package git_example;
 
-/**
- *
- * @author Debbie
- */
 public class Git_Example {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+    System.out.println("Hello World");
     }
     
-}
+    }
+    
+
